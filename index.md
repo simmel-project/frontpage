@@ -43,12 +43,12 @@ transducers that are expensive compared to BLE parts, and also
 requires the user to directly wear the device; we are assuming that
 e.g. a typical handbag would block the NUS signal. Thus while NUS may
 be preferable from a privacy and power standpoint, it is handicapped
-by a lack of maturity and higher cost. 
+by a lack of maturity and higher cost.
 
 Simmel provisions a 2MiB on-device SPINOR. We anticipate a contact record
 to consist of about 96 bytes, which should allow for about 20,000 contacts
 to be recorded in a circular buffer that expires over a period of 2-3 weeks
-(as set by the policy of the contact tracing application). 
+(as set by the policy of the contact tracing application).
 
 
 ### Firmware Summary
@@ -91,16 +91,18 @@ developers](https://github.com/orgs/simmel-project/people) that have
 [elected to reveal their participation
 publicly](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership).
 
-The administrative contact for the Simmel project is [Andrew
-'bunnie' Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker))
-([@bunniestudios](https://twitter.com/bunniestudios)/[blog](https://bunniestudios.com)).
+The administrative contact for the Simmel project are:
+
+* [Andrew 'bunnie'
+  Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker))
+  ([@bunniestudios](https://twitter.com/bunniestudios)/[blog](https://bunniestudios.com))
+* [Sean 'xobs' Cross](https://xobs.io))
 
 <center><img src="https://nlnet.nl/logo/banner.png" width="20%"> <img src="https://nlnet.nl/image/logos/NGI0_tag.png" width="20%"></center>
 
 The Simmel team is funded through the [NGI0 PET
-Fund](https://nlnet.nl/PET), a fund established by NLnet with
-financial support from the European Commission's [Next Generation
+Fund](https://nlnet.nl/PET), a fund established by NLnet with financial
+support from the European Commission's [Next Generation
 Internet](https://ngi.eu/) programme, under the aegis of DG
-Communications Networks, Content and Technology under grant agreement
-No 825310.
-
+Communications Networks, Content and Technology under grant agreement No
+825310.
