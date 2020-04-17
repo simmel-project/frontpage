@@ -54,7 +54,7 @@ record to consist of about 96 bytes, which should allow for about 20,000
 contacts to be recorded in a circular buffer that expires over a period
 of 2-3 weeks (as set by the policy of the contact tracing application).
 
-![Simmel overview](https://github.com/simmel-project/frontpage/raw/master/simmel-rear.jpg)
+![Simmel rear view](https://github.com/simmel-project/frontpage/raw/master/simmel-rear.jpg)
 
 ### Firmware Summary
 
@@ -78,7 +78,7 @@ securely erases the contact tracing ROM, allowing the devices to be
 donated to schools or other organizations for extended use after
 the outbreak.
 
-![Simmel overview](https://github.com/simmel-project/frontpage/blob/raw/simmel-usb.jpg)
+![Simmel USB connector](https://github.com/simmel-project/frontpage/raw/simmel-usb.jpg)
 
 ### Application Code
 
