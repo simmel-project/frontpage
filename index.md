@@ -53,7 +53,7 @@ of 2-3 weeks (as set by the policy of the contact tracing application).
 
 ### Firmware Summary
 
-Simmel will run a port of CircuitPython . CircuitPython  was chosen oven
+Simmel will run a port of CircuitPython. CircuitPython  was chosen oven
 an embedded C RTOS for the following reasons:
 
 - The contact tracing algorithm should be simple enough that it can be
@@ -62,7 +62,7 @@ an embedded C RTOS for the following reasons:
 - Code distribution can be done in source form. Provisioning and update
   is a matter of plugging the Simmel device into a USB port and copying
   the source file into an emulated mass storage device.
-- CircuitPython has a baseline port to our BLE chipset
+- CircuitPython has a baseline port to our BLE chipset family
 - Simmel project will fill in the missing drivers, power management, and
   cryptographic primitives
 
@@ -93,6 +93,10 @@ GitHub repository's people page [lists the
 developers](https://github.com/orgs/simmel-project/people) that have
 [elected to reveal their participation
 publicly](https://help.github.com/en/articles/publicizing-or-hiding-organization-membership).
+
+The Simmel project name comes from [Georg
+Simmel](https://wikipedia.org/wiki/Georg_Simmel), an early researcher
+into sociology and social distance theory.
 
 The administrative contact for the Simmel project are:
 
