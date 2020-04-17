@@ -6,6 +6,8 @@ which can broadcast and record randomized user IDs. Contacts are stored
 within the wearable device, so you retain full control of your trace
 history until you choose to share it.
 
+![Simmel diagram](https://github.com/simmel-project/frontpage/blob/master/simmel-concept.png)
+
 The Simmel design is open source, so you are empowered to audit the
 code. Furthermore, once the pandemic is over, you are able to recycle,
 re-use, or securely destroy the device, thanks to the availability of
@@ -18,6 +20,8 @@ inherently not compatible with contact tracing proposals that rely on
 the constant upload of data to the cloud.
 
 ### Hardware Summary
+
+![Simmel overview](https://github.com/simmel-project/frontpage/blob/master/simmel-desk.jpg)
 
 Simmel is being developed on a very short timeframe. We have two paths
 being explored in parallel.
@@ -50,6 +54,7 @@ record to consist of about 96 bytes, which should allow for about 20,000
 contacts to be recorded in a circular buffer that expires over a period
 of 2-3 weeks (as set by the policy of the contact tracing application).
 
+![Simmel overview](https://github.com/simmel-project/frontpage/blob/master/simmel-rear.jpg)
 
 ### Firmware Summary
 
@@ -73,6 +78,7 @@ securely erases the contact tracing ROM, allowing the devices to be
 donated to schools or other organizations for extended use after
 the outbreak.
 
+![Simmel overview](https://github.com/simmel-project/frontpage/blob/master/simmel-usb.jpg)
 
 ### Application Code
 
