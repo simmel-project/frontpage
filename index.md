@@ -78,7 +78,7 @@ securely erases the contact tracing ROM, allowing the devices to be
 donated to schools or other organizations for extended use after
 the outbreak.
 
-![Simmel USB connector](https://github.com/simmel-project/frontpage/raw/simmel-usb.jpg)
+![Simmel USB connector](https://raw.githubusercontent.com/simmel-project/frontpage/master/simmel-usb.jpg)
 
 ### Application Code
 
