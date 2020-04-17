@@ -112,6 +112,8 @@ The administrative contacts for the Simmel project are:
   ([@bunniestudios](https://twitter.com/bunniestudios)/[blog](https://bunniestudios.com))
 * [Sean 'xobs' Cross](https://xobs.io)
 
+---
+
 <center><img src="https://nlnet.nl/logo/banner.png" width="20%"> <img src="https://nlnet.nl/image/logos/NGI0_tag.png" width="20%"></center>
 
 The Simmel team is funded through the [NGI0 PET
