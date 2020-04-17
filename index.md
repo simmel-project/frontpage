@@ -105,12 +105,12 @@ The Simmel project name comes from [Georg
 Simmel](https://wikipedia.org/wiki/Georg_Simmel), an early researcher
 into sociology and social distance theory.
 
-The administrative contact for the Simmel project are:
+The administrative contacts for the Simmel project are:
 
 * [Andrew 'bunnie'
   Huang](https://en.wikipedia.org/wiki/Andrew_Huang_(hacker))
   ([@bunniestudios](https://twitter.com/bunniestudios)/[blog](https://bunniestudios.com))
-* [Sean 'xobs' Cross](https://xobs.io))
+* [Sean 'xobs' Cross](https://xobs.io)
 
 <center><img src="https://nlnet.nl/logo/banner.png" width="20%"> <img src="https://nlnet.nl/image/logos/NGI0_tag.png" width="20%"></center>
 
