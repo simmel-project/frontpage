@@ -20,6 +20,7 @@ inherently not compatible with contact tracing proposals that rely on
 the constant upload of data to the cloud.
 
 ### Hardware Summary
+The hardware design source for Simmel can be found [here](https://github.com/simmel-project/hardware).
 
 ![Simmel overview](https://github.com/simmel-project/frontpage/raw/master/simmel-desk.jpg)
 
