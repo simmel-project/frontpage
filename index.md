@@ -91,6 +91,29 @@ possess the ability to connect directly to the Internet, and is
 therefore incapable of sharing its logging data without user
 intervention.
 
+### Media
+
+Below are some images of the initial Simmel prototype as fabricated
+using a 3D printer.
+
+![Simmel prototype](https://github.com/simmel-project/frontpage/raw/master/simmel_pen_compare.jpg)
+
+In addition to being packed into a backpack, purse or briefcase, the
+simmel device can be hung from a lanyard.
+
+![Simmel lanyard](https://github.com/simmel-project/frontpage/raw/master/simmel_assembled.jpg)
+
+![Simmel as worn](https://github.com/simmel-project/frontpage/raw/master/simmel_lanyard.jpg)
+
+Here's a photo of Simmel as plugged into a USB type C socket on a typical laptop.
+
+![Simmel plugged in](https://github.com/simmel-project/frontpage/raw/master/simmel_plugged_in.jpg)
+
+And here are some photos of the Simmel PCBA.
+
+![Simmel PCBA]((https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_quarter1.jpg)
+
+![Simmel PCBA]((https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_sideview.jpg)
 
 ### About the Simmel Project
 
