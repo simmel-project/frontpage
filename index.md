@@ -111,9 +111,9 @@ Here's a photo of Simmel as plugged into a USB type C socket on a typical laptop
 
 And here are some photos of the Simmel PCBA.
 
-![Simmel PCBA]((https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_quarter1.jpg)
+![Simmel PCBA](https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_quarter1.jpg)
 
-![Simmel PCBA]((https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_sideview.jpg)
+![Simmel PCBA](https://github.com/simmel-project/frontpage/raw/master/simmel_pcb_sideview.jpg)
 
 ### About the Simmel Project
 
