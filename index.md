@@ -136,6 +136,7 @@ The administrative contacts for the Simmel project are:
 * [Sean 'xobs' Cross](https://xobs.io)
 
 Both contacts are currently at liberty to discuss details and opinions about any contact tracing technology.
+
 ---
 
 <center><img src="https://nlnet.nl/logo/banner.png" width="20%"> <img src="https://nlnet.nl/image/logos/NGI0_tag.png" width="20%"></center>
