@@ -57,6 +57,42 @@ of 2-3 weeks (as set by the policy of the contact tracing application).
 
 ![Simmel rear view](https://github.com/simmel-project/frontpage/raw/master/simmel-rear.jpg)
 
+### DVT Hardware Revision
+
+As of August 2020, Simmel went through a hardware revision to make its
+form factor compatible with that of the Singapore TraceTogether token.
+
+![Simmel DVT vs TraceTogether](https://github.com/simmel-project/frontpage/raw/master/tt-token-comparison_titled.jpg)
+
+The left board is Simmel DVT, the right board is the Singapore TraceTogether
+token. Simmel DVT drops NUS support, but adds an independently battery-backed
+real time clock (RTC) so that elapsed time can be kept even when the
+main power is removed. Simmel DVT also features a hall-effect (that is,
+a magnetically activated) power switch. It's configured so that the PCB
+is off so long as the magnet is absent.
+
+The idea behind Simmel DVT is to provide a fully open source
+alternative to the TraceTogether token, that can fit directly into a
+TraceTogether token case. The USB-C connector, used only by
+developers, fits without modification into the TraceTogether token
+shell, and the hall effect on/off switch allows users to turn off
+their tokens without having to open the case up, or modify the shell to add
+a power switch: instead, one tapes a magnet to the edge of the
+shell near the hall effect switch, and when they desire the token to
+be off, they may simply remove the magnet.
+
+One compromise that resulted from fitting everything, including the
+USB-C connector, entirely within the outline of the TraceTogether
+token PCB is that developers need to use a USB type C extension cable
+to plug their boards into a host PC. However, given that developers
+are a minority of the users, it's probably the right trade-off to
+allow a direct drop-in replacement of the TraceTogether token board
+without requiring a case mod for the USB-C connector, versus
+positioning the connector so that it protrudes through the case for
+convenient developer access, but requiring every subsequent user to
+cut a hole in their TraceTogether token case to accommodate a
+connector they will never use.
+
 ### Firmware Summary
 
 Simmel will run a port of CircuitPython. CircuitPython  was chosen oven
