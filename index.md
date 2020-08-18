@@ -60,7 +60,8 @@ of 2-3 weeks (as set by the policy of the contact tracing application).
 ### DVT Hardware Revision
 
 As of August 2020, Simmel went through a hardware revision to make its
-form factor compatible with that of the Singapore TraceTogether token.
+form factor compatible with that of the Singapore TraceTogether token. 
+Hardware design files can be found at https://github.com/simmel-project/hardware/tree/master/electrical/dvt1.
 
 ![Simmel DVT vs TraceTogether](https://github.com/simmel-project/frontpage/raw/master/tt-token-comparison_titled.jpg)
 
